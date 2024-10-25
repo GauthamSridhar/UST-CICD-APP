@@ -8,7 +8,7 @@ public class MyApi {
 
     @GetMapping
     public String sayHello() {
-        return "Hello World!";
+        return "D3XT3R";
     }
 
 }
